@@ -18,7 +18,7 @@ function Counter() {
     }
 
     else {
-      document.body.style.backgroundColor = "#1f2937";
+      document.body.style.backgroundColor = "#7fb4ffff";
     }
   }, [count, count2]);
 
